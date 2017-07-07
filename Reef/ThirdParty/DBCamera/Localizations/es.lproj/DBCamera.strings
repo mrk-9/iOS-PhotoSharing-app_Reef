@@ -1,0 +1,24 @@
+/* 
+  DBCamera.strings
+  DBCamera
+
+  Created by iBo on 11/02/14.
+  Copyright (c) 2014 PSSD - Daniele Bogo. All rights reserved.
+*/
+
+"button.use" = "Usar";
+"button.retake" = "Volver a tomar";
+
+"general.error.title" = "¡Atención!";
+"general.button.cancel" = "Cancelar";
+
+"pickerimage.nopolicy" = "Por favor, activa los permisos con el fin de utilizar su biblioteca de fotos. Compruebe sus permisos en Ajustes > Privacidad > Fotos";
+"pickerimage.nophoto" = "No hay imágenes en tu película";
+
+"pagecontrol.text" = "%i de %i";
+
+"cropmode.title" = "Aspect Ratio";
+"cropmode.square" = "Cuadrado";
+
+"cameraimage.nopolicy" = "Please enable the permissions in order to use your Camera. Check your permissions in Settings > Privacy > Camera";
+"cameraimage.noconnection" = "Could not connect to camera. Please check your permissions in Settings > Privacy > Camera";
